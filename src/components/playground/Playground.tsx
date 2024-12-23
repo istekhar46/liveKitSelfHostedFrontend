@@ -167,7 +167,7 @@ export default function Playground({
     const waitingContent = (
       <div className="flex flex-col items-center gap-2 text-gray-700 text-center w-full">
         <LoadingSVG />
-        Waiting for audio track
+        Waiting for audio track please wait..
       </div>
     );
 
